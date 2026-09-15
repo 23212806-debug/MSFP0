@@ -5,9 +5,9 @@ Departamento de Ingeniería Eléctrica y Electrónica, Ingeniería Biomédica
 Tecnológico Nacional de México [TecNM - Tijuana]
 Blvd. Alberto Limón Padilla s/n, C.P. 22454, Tijuana, B.C., México
 
-Nombre del alumno: Christian Cid Pacheco
-Número de control: 23212186
-Correo institucional: L232122186@tectijuana.edu.mx
+Nombre del alumno: Pedro Damian Martinez Lozano
+Número de control: 23212806
+Correo institucional: 23212806@tectijuana.edu.mx
 
 Asignatura: Modelado de Sistemas Fisiológicos
 Docente: Dr. Paul Antonio Valle Trujillo; paul.valle@tectijuana.edu.mx
